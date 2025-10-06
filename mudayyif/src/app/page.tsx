@@ -31,6 +31,8 @@ export default function HomePage() {
                 <a href="/islands" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Islands</a>
                 <a href="/landmarks" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Landmarks</a>
                 <a href="/culture" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Culture</a>
+                <a href="/experiences" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Experiences</a>
+                <a href="/opportunities" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Opportunities</a>
               </div>
             )}
           </div>
