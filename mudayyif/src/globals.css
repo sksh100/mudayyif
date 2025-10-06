@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Card hover effects */
+.card-effect {
+  transition: transform 0.3s cubic-bezier(.4,2,.3,1), box-shadow 0.3s;
+}
+.card-effect:hover {
+  transform: scale(1.045) translateY(-4px);
+  box-shadow: 0 8px 32px 0 rgba(34, 139, 87, 0.18), 0 1.5px 6px 0 rgba(18,91,80,0.10);
+}
+.card-img-effect {
+  transition: transform 0.5s cubic-bezier(.4,2,.3,1);
+}
+.card-effect:hover .card-img-effect {
+  transform: scale(1.08);
+}
+
+/* Glassmorphism for hero overlay */
+.hero-glass {
+  background: rgba(231, 246, 242, 0.55);
+  backdrop-filter: blur(8px) saturate(1.2);
+  -webkit-backdrop-filter: blur(8px) saturate(1.2);
+}
+
+/* Animated gradient for hero overlay */
+.hero-animated-gradient {
+  background: linear-gradient(270deg, #D7DFD2, #E8E2D1, #125b50, #D7DFD2);
+  background-size: 1200% 1200%;
+  animation: gradientMove 60s ease infinite;
+  opacity: 0.7;
+}
+@keyframes gradientMove {
+  0% {background-position:0% 50%}
+  50% {background-position:100% 50%}
+  100% {background-position:0% 50%}
+}
+
+/* Fade-in animation for sections and cards */
+.fade-in {
+  opacity: 0;
+  transform: translateY(40px);
+  animation: fadeInUp 10s cubic-bezier(.33,1,.68,1) forwards;
+  /* No background or color set here */
+}
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Parallax background for property section */
+.parallax-bg {
+  background: linear-gradient(120deg, #EFF6F2 0%, #D7DFD2 100%);
+  background-attachment: fixed;
+}
+
+/* Floating animation for cards */
+.float-anim {
+  animation: floatCard 3.5s ease-in-out infinite alternate;
+}
+@keyframes floatCard {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-12px); }
+}
