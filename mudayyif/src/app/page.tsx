@@ -16,7 +16,7 @@ export default function HomePage() {
         </div>
         {/* Nav Links */}
         <div className="flex items-center gap-8">
-          <a href="/masaken" className="text-darkAzure font-semibold hover:text-azure transition">Masaken</a>
+          <button className="text-darkAzure font-semibold hover:text-azure transition">About Us</button>
           <div className="relative">
             <button
               className="text-darkAzure font-semibold hover:text-azure transition flex items-center gap-1"
