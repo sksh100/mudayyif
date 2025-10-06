@@ -1,0 +1,492 @@
+[
+  {
+    "Project Name": "Al Reeman",
+    "Developer": "Aldar",
+    "Area": "Al Shamkha",
+    "Price (AED)": "2823784",
+    "Latitude": 24.373285,
+    "Longitude": 54.309725,
+    "Image URL": "/images/pic1.jpg",
+    "Tags": "#PetFriendly, #Waterfront, #FamilyFriendly"
+  },
+  {
+    "Project Name": "Saadiyat Grove",
+    "Developer": "Aldar",
+    "Area": "Saadiyat Island",
+    "Price (AED)": "5028616",
+    "Latitude": 24.367211,
+    "Longitude": 54.374665,
+    "Image URL": "/images/pic2.jpg",
+    "Tags": "#Waterfront, #SeaView, #Vibrant"
+  },
+  {
+    "Project Name": "Yas Acres",
+    "Developer": "Aldar",
+    "Area": "Yas Island",
+    "Price (AED)": "3614624",
+    "Latitude": 24.396832,
+    "Longitude": 54.593809,
+    "Image URL": "/images/pic3.jpg",
+    "Tags": "#FamilyFriendly, #SeaView, #PetFriendly"
+  },
+  {
+    "Project Name": "Pixel",
+    "Developer": "Imkan",
+    "Area": "Al Reem Island",
+    "Price (AED)": "3212803",
+    "Latitude": 24.510754,
+    "Longitude": 54.359721,
+    "Image URL": "/images/pic4.png",
+    "Tags": "#Modern, #GatedCommunity, #Vibrant"
+  },
+  {
+    "Project Name": "The Gate",
+    "Developer": "Reportage",
+    "Area": "Masdar City",
+    "Price (AED)": "4287524",
+    "Latitude": 24.508913,
+    "Longitude": 54.3744,
+    "Image URL": "/images/pic5.png",
+    "Tags": "#NearMosque, #Waterfront, #QuietArea"
+  },
+  {
+    "Project Name": "Al Raha Lofts",
+    "Developer": "Reportage",
+    "Area": "Al Raha Beach",
+    "Price (AED)": "3149582",
+    "Latitude": 24.32543,
+    "Longitude": 54.351652,
+    "Image URL": "/images/pic6.jpeg",
+    "Tags": "#SeaView, #Vibrant, #Waterfront"
+  },
+  {
+    "Project Name": "Meera Shams",
+    "Developer": "Aldar",
+    "Area": "Al Reem Island",
+    "Price (AED)": "5008790",
+    "Latitude": 24.39598,
+    "Longitude": 54.563454,
+    "Image URL": "/images/pic7.jpg",
+    "Tags": "#QuietArea, #Modern, #Waterfront"
+  },
+  {
+    "Project Name": "Water's Edge",
+    "Developer": "Aldar",
+    "Area": "Yas Island",
+    "Price (AED)": "5190245",
+    "Latitude": 24.352559,
+    "Longitude": 54.566159,
+    "Image URL": "/images/pic8.jpg",
+    "Tags": "#Luxury, #Traditional, #QuietArea"
+  },
+  {
+    "Project Name": "Al Maryah Vista",
+    "Developer": "Reportage",
+    "Area": "Al Maryah Island",
+    "Price (AED)": "3695678",
+    "Latitude": 24.32737,
+    "Longitude": 54.348077,
+    "Image URL": "/images/pic9.jpg",
+    "Tags": "#GatedCommunity, #Traditional, #Vibrant"
+  },
+  {
+    "Project Name": "Soho Square",
+    "Developer": "Bloom",
+    "Area": "Saadiyat Island",
+    "Price (AED)": "2375377",
+    "Latitude": 24.447209,
+    "Longitude": 54.544535,
+    "Image URL": "/images/pic10.jpg",
+    "Tags": "#Waterfront, #SeaView, #Modern"
+  },
+  {
+    "Project Name": "Park View",
+    "Developer": "Bloom",
+    "Area": "Saadiyat Island",
+    "Price (AED)": "1454926",
+    "Latitude": 24.578791,
+    "Longitude": 54.493163,
+    "Image URL": "/images/pic1.jpg",
+    "Tags": "#GatedCommunity, #FamilyFriendly, #PetFriendly"
+  },
+  {
+    "Project Name": "Reflection",
+    "Developer": "Aldar",
+    "Area": "Al Reem Island",
+    "Price (AED)": "2395839",
+    "Latitude": 24.438552,
+    "Longitude": 54.329689,
+    "Image URL": "/images/pic2.jpg",
+    "Tags": "#QuietArea, #FamilyFriendly, #SeaView"
+  },
+  {
+    "Project Name": "Mamsha Al Saadiyat",
+    "Developer": "Aldar",
+    "Area": "Saadiyat Island",
+    "Price (AED)": "3090953",
+    "Latitude": 24.36187,
+    "Longitude": 54.344937,
+    "Image URL": "/images/pic3.jpg",
+    "Tags": "#Investment, #Traditional, #Modern"
+  },
+  {
+    "Project Name": "Leonardo Residence",
+    "Developer": "Reportage",
+    "Area": "Masdar City",
+    "Price (AED)": "2346256",
+    "Latitude": 24.354465,
+    "Longitude": 54.345426,
+    "Image URL": "/images/pic4.png",
+    "Tags": "#Waterfront, #Traditional, #Modern"
+  },
+  {
+    "Project Name": "Ansam",
+    "Developer": "Aldar",
+    "Area": "Yas Island",
+    "Price (AED)": "1676907",
+    "Latitude": 24.38642,
+    "Longitude": 54.543863,
+    "Image URL": "/images/pic5.png",
+    "Tags": "#Waterfront, #QuietArea, #Vibrant"
+  },
+  {
+    "Project Name": "Oasis Residence",
+    "Developer": "Reportage",
+    "Area": "Masdar City",
+    "Price (AED)": "4485293",
+    "Latitude": 24.424501,
+    "Longitude": 54.440961,
+    "Image URL": "/images/pic6.jpeg",
+    "Tags": "#Waterfront, #Luxury, #Vibrant"
+  },
+  {
+    "Project Name": "Al Ghadeer",
+    "Developer": "Aldar",
+    "Area": "Seih Sdeirah",
+    "Price (AED)": "3269310",
+    "Latitude": 24.541677,
+    "Longitude": 54.54711,
+    "Image URL": "/images/pic7.jpg",
+    "Tags": "#FamilyFriendly, #Vibrant, #SeaView"
+  },
+  {
+    "Project Name": "Jawaher",
+    "Developer": "Aldar",
+    "Area": "Saadiyat Island",
+    "Price (AED)": "4792354",
+    "Latitude": 24.463486,
+    "Longitude": 54.471454,
+    "Image URL": "/images/pic8.jpg",
+    "Tags": "#FamilyFriendly, #Vibrant, #Waterfront"
+  },
+  {
+    "Project Name": "Radiant Square",
+    "Developer": "Radiant",
+    "Area": "Al Reem Island",
+    "Price (AED)": "2189751",
+    "Latitude": 24.314033,
+    "Longitude": 54.395119,
+    "Image URL": "/images/pic9.jpg",
+    "Tags": "#Vibrant, #Investment, #PetFriendly"
+  },
+  {
+    "Project Name": "Julphar Residence",
+    "Developer": "RAK Properties",
+    "Area": "Al Reem Island",
+    "Price (AED)": "2017773",
+    "Latitude": 24.434437,
+    "Longitude": 54.412928,
+    "Image URL": "/images/pic10.jpg",
+    "Tags": "#QuietArea, #Investment, #Modern"
+  },
+  {
+    "Project Name": "Lamar Residences",
+    "Developer": "Aabar",
+    "Area": "Al Raha Beach",
+    "Price (AED)": "4322274",
+    "Latitude": 24.334575,
+    "Longitude": 54.349577,
+    "Image URL": "/images/pic1.jpg",
+    "Tags": "#SeaView, #Waterfront, #QuietArea"
+  },
+  {
+    "Project Name": "Fairmont Marina",
+    "Developer": "Fairmont",
+    "Area": "Corniche",
+    "Price (AED)": "1317232",
+    "Latitude": 24.489498,
+    "Longitude": 54.475914,
+    "Image URL": "/images/pic2.jpg",
+    "Tags": "#SeaView, #PetFriendly, #GatedCommunity"
+  },
+  {
+    "Project Name": "Sea La Vie",
+    "Developer": "Nine Yards",
+    "Area": "Yas Bay",
+    "Price (AED)": "2521094",
+    "Latitude": 24.448563,
+    "Longitude": 54.590289,
+    "Image URL": "/images/pic3.jpg",
+    "Tags": "#Modern, #QuietArea, #Investment"
+  },
+  {
+    "Project Name": "Al Jurf",
+    "Developer": "Imkan",
+    "Area": "Ghantoot",
+    "Price (AED)": "3148905",
+    "Latitude": 24.594447,
+    "Longitude": 54.485666,
+    "Image URL": "/images/pic4.png",
+    "Tags": "#Luxury, #Vibrant, #GatedCommunity"
+  },
+  {
+    "Project Name": "The Bridges",
+    "Developer": "Aldar",
+    "Area": "Al Reem Island",
+    "Price (AED)": "2574178",
+    "Latitude": 24.348228,
+    "Longitude": 54.360142,
+    "Image URL": "/images/pic5.png",
+    "Tags": "#QuietArea, #PetFriendly, #Modern"
+  },
+  {
+    "Project Name": "Hydra Avenue",
+    "Developer": "Hydra",
+    "Area": "Al Reem Island",
+    "Price (AED)": "937037",
+    "Latitude": 24.463999,
+    "Longitude": 54.595807,
+    "Image URL": "/images/pic6.jpeg",
+    "Tags": "#Traditional, #Vibrant, #FamilyFriendly"
+  },
+  {
+    "Project Name": "Parkside Residence",
+    "Developer": "Bloom",
+    "Area": "Al Reem Island",
+    "Price (AED)": "1171213",
+    "Latitude": 24.480561,
+    "Longitude": 54.56046,
+    "Image URL": "/images/pic7.jpg",
+    "Tags": "#Investment, #Vibrant, #Traditional"
+  },
+  {
+    "Project Name": "Ocean Terrace",
+    "Developer": "Mada'in",
+    "Area": "Al Reem Island",
+    "Price (AED)": "4801691",
+    "Latitude": 24.407175,
+    "Longitude": 54.497191,
+    "Image URL": "/images/pic8.jpg",
+    "Tags": "#Investment, #Traditional, #Vibrant"
+  },
+  {
+    "Project Name": "Mangrove Place",
+    "Developer": "Federal",
+    "Area": "Al Reem Island",
+    "Price (AED)": "1650438",
+    "Latitude": 24.592124,
+    "Longitude": 54.549706,
+    "Image URL": "/images/pic9.jpg",
+    "Tags": "#Vibrant, #QuietArea, #PetFriendly"
+  },
+  {
+    "Project Name": "Al Hadeel",
+    "Developer": "Aldar",
+    "Area": "Al Raha Beach",
+    "Price (AED)": "1443338",
+    "Latitude": 24.5038,
+    "Longitude": 54.499969,
+    "Image URL": "/images/pic10.jpg",
+    "Tags": "#Vibrant, #Investment, #Traditional"
+  },
+  {
+    "Project Name": "Sky Tower",
+    "Developer": "Tamouh",
+    "Area": "Al Reem Island",
+    "Price (AED)": "4761085",
+    "Latitude": 24.329023,
+    "Longitude": 54.417985,
+    "Image URL": "/images/pic1.jpg",
+    "Tags": "#Modern, #Traditional, #FamilyFriendly"
+  },
+  {
+    "Project Name": "Sun Tower",
+    "Developer": "Tamouh",
+    "Area": "Al Reem Island",
+    "Price (AED)": "4106143",
+    "Latitude": 24.410103,
+    "Longitude": 54.486568,
+    "Image URL": "/images/pic2.jpg",
+    "Tags": "#PetFriendly, #Waterfront, #NearMosque"
+  },
+  {
+    "Project Name": "Al Durrah Tower",
+    "Developer": "Aabar",
+    "Area": "Marina Square",
+    "Price (AED)": "1735092",
+    "Latitude": 24.315942,
+    "Longitude": 54.583165,
+    "Image URL": "/images/pic3.jpg",
+    "Tags": "#NearMosque, #Waterfront, #Investment"
+  },
+  {
+    "Project Name": "Bay View Tower",
+    "Developer": "Private",
+    "Area": "Shams Abu Dhabi",
+    "Price (AED)": "1579429",
+    "Latitude": 24.394689,
+    "Longitude": 54.547604,
+    "Image URL": "/images/pic4.png",
+    "Tags": "#QuietArea, #GatedCommunity, #Vibrant"
+  },
+  {
+    "Project Name": "Sea View Tower",
+    "Developer": "Private",
+    "Area": "Shams Abu Dhabi",
+    "Price (AED)": "4577333",
+    "Latitude": 24.337275,
+    "Longitude": 54.561103,
+    "Image URL": "/images/pic5.png",
+    "Tags": "#NearMosque, #Waterfront, #QuietArea"
+  },
+  {
+    "Project Name": "Burooj Views",
+    "Developer": "Burooj",
+    "Area": "Marina Square",
+    "Price (AED)": "5195340",
+    "Latitude": 24.548955,
+    "Longitude": 54.542978,
+    "Image URL": "/images/pic6.jpeg",
+    "Tags": "#Investment, #Modern, #GatedCommunity"
+  },
+  {
+    "Project Name": "Ocean Scape",
+    "Developer": "Damac",
+    "Area": "Shams Abu Dhabi",
+    "Price (AED)": "4443305",
+    "Latitude": 24.521147,
+    "Longitude": 54.31851,
+    "Image URL": "/images/pic7.jpg",
+    "Tags": "#Traditional, #Waterfront, #QuietArea"
+  },
+  {
+    "Project Name": "Beach Towers",
+    "Developer": "Al Badie",
+    "Area": "Shams Abu Dhabi",
+    "Price (AED)": "1145679",
+    "Latitude": 24.462673,
+    "Longitude": 54.33095,
+    "Image URL": "/images/pic8.jpg",
+    "Tags": "#PetFriendly, #FamilyFriendly, #SeaView"
+  },
+  {
+    "Project Name": "RAK Tower",
+    "Developer": "RAK Properties",
+    "Area": "Marina Square",
+    "Price (AED)": "2013374",
+    "Latitude": 24.504293,
+    "Longitude": 54.395436,
+    "Image URL": "/images/pic9.jpg",
+    "Tags": "#Vibrant, #FamilyFriendly, #Traditional"
+  },
+  {
+    "Project Name": "Sigma Towers",
+    "Developer": "Mada'in",
+    "Area": "City of Lights",
+    "Price (AED)": "4633823",
+    "Latitude": 24.409603,
+    "Longitude": 54.347806,
+    "Image URL": "/images/pic10.jpg",
+    "Tags": "#SeaView, #FamilyFriendly, #Vibrant"
+  },
+  {
+    "Project Name": "C10 Tower",
+    "Developer": "Private",
+    "Area": "Danet Abu Dhabi",
+    "Price (AED)": "4556595",
+    "Latitude": 24.441896,
+    "Longitude": 54.314824,
+    "Image URL": "/images/pic1.jpg",
+    "Tags": "#Investment, #Modern, #Waterfront"
+  },
+  {
+    "Project Name": "Mayan",
+    "Developer": "Aldar",
+    "Area": "Yas Island",
+    "Price (AED)": "3006193",
+    "Latitude": 24.550593,
+    "Longitude": 54.369076,
+    "Image URL": "/images/pic2.jpg",
+    "Tags": "#QuietArea, #Investment, #PetFriendly"
+  },
+  {
+    "Project Name": "Noya",
+    "Developer": "Aldar",
+    "Area": "Yas Island",
+    "Price (AED)": "4391924",
+    "Latitude": 24.439249,
+    "Longitude": 54.304052,
+    "Image URL": "/images/pic3.jpg",
+    "Tags": "#Traditional, #Waterfront, #Investment"
+  },
+  {
+    "Project Name": "Al Zeina",
+    "Developer": "Aldar",
+    "Area": "Al Raha Beach",
+    "Price (AED)": "3277933",
+    "Latitude": 24.419161,
+    "Longitude": 54.411205,
+    "Image URL": "/images/pic4.png",
+    "Tags": "#SeaView, #GatedCommunity, #Investment"
+  },
+  {
+    "Project Name": "The Boardwalk",
+    "Developer": "Imkan",
+    "Area": "Al Jubail Island",
+    "Price (AED)": "1454212",
+    "Latitude": 24.376905,
+    "Longitude": 54.3484,
+    "Image URL": "/images/pic5.png",
+    "Tags": "#Waterfront, #FamilyFriendly, #GatedCommunity"
+  },
+  {
+    "Project Name": "Louvre Residences",
+    "Developer": "Aldar",
+    "Area": "Saadiyat Island",
+    "Price (AED)": "1675501",
+    "Latitude": 24.499119,
+    "Longitude": 54.565274,
+    "Image URL": "/images/pic6.jpeg",
+    "Tags": "#Investment, #GatedCommunity, #Luxury"
+  },
+  {
+    "Project Name": "Burooj Terraces",
+    "Developer": "Burooj",
+    "Area": "Al Reem Island",
+    "Price (AED)": "2381548",
+    "Latitude": 24.570221,
+    "Longitude": 54.335584,
+    "Image URL": "/images/pic7.jpg",
+    "Tags": "#Vibrant, #SeaView, #GatedCommunity"
+  },
+  {
+    "Project Name": "Capital Bay",
+    "Developer": "Private",
+    "Area": "Al Reem Island",
+    "Price (AED)": "4153776",
+    "Latitude": 24.384909,
+    "Longitude": 54.555009,
+    "Image URL": "/images/pic8.jpg",
+    "Tags": "#FamilyFriendly, #Vibrant, #GatedCommunity"
+  },
+  {
+    "Project Name": "Al Qurm Gardens",
+    "Developer": "Aldar",
+    "Area": "Airport Road",
+    "Price (AED)": "2250517",
+    "Latitude": 24.409635,
+    "Longitude": 54.531051,
+    "Image URL": "/images/pic9.jpg",
+    "Tags": "#Investment, #Vibrant, #SeaView"
+  }
+]
