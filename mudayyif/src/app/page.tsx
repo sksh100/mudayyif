@@ -16,7 +16,7 @@ export default function HomePage() {
         </div>
         {/* Nav Links */}
         <div className="flex items-center gap-8">
-          <button className="text-darkAzure font-semibold hover:text-azure transition">About Us</button>
+          <a href="/masaken" className="text-darkAzure font-semibold hover:text-azure transition">Masaken</a>
           <div className="relative">
             <button
               className="text-darkAzure font-semibold hover:text-azure transition flex items-center gap-1"
@@ -28,9 +28,9 @@ export default function HomePage() {
             </button>
             {dropdownOpen && (
               <div className="absolute left-0 mt-2 w-40 bg-white rounded-xl shadow-lg py-2 z-50 border border-creamPistachio animate-fade-in">
-                <a href="#" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Culture</a>
-                <a href="#" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Experiences</a>
-                <a href="#" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Opportunities</a>
+                <a href="/islands" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Islands</a>
+                <a href="/landmarks" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Landmarks</a>
+                <a href="/culture" className="block px-4 py-2 text-darkAzure hover:bg-creamPistachio rounded transition">Culture</a>
               </div>
             )}
           </div>
